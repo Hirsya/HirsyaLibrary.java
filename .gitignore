@@ -1,0 +1,22 @@
+# Compiled output
+*.class
+
+# Build output
+build/
+out/
+bin/
+target/
+
+# Packaged artifacts
+*.jar
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
